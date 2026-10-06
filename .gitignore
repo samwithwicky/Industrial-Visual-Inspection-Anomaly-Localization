@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dataset
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Models
+models/*.pt
+models/*.pth
+models/*.onnx
+
+# Environment
+.env
